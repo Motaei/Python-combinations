@@ -1,0 +1,2 @@
+combinations:
+	It creates an iterator which produces all K combinations of N objecets. 
